@@ -1,0 +1,10 @@
+* semantic-spinneret
+
+A set of Semantic UI components for Spinneret
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rmhsilva/semantic-spinneret.git   |
+| commit  | 915c29c  |
+| systems | semantic-spinneret |
+|---------+-------------------------------------------|
+
